@@ -17,25 +17,25 @@ body {
 header {
   background-color:rgb(47, 79, 128);
   padding: 5px;
-  /* font-size: ; */
+  font-size: ;
   display: block;
   width: 100%;
 }
 
-/* nav {
+nav {
   float: left;
-} */
+}
 
-/* nav ul {
+nav ul {
   padding: ;
   float: left;
   border-bottom: ;
   list-style-type: none;
-} */
+}
 
-/* nav li {
+nav li {
   float: left;
-} */
+}
 
 nav li a {
   display: block;
@@ -54,15 +54,13 @@ a {
 }
 #straw {
     display: inline-block;
-    width: 200px;
-    height: 200px;
+    width: 50%;
     margin-left: 90px;
 }
 #rammed {
   display: inline-block;
   margin-left: 50%;
-    width: 200px;
-    height: 200px;
+    width: 50%;
 }
 #wood {
   display: inline-block; 
@@ -106,7 +104,7 @@ aside {
   width: 17%;
   display: inline-block;
   background-color:silver;
-  /* padding: */
+  padding:
   min-height: 100%;
 }
 
