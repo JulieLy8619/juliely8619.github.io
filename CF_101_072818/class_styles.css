@@ -1,0 +1,12 @@
+html{
+    background-color: rgb(160, 17, 41);
+}
+
+#greenabout {
+    color: green;
+}
+
+.myclass{
+    color:yellow;
+    font-size: 30;
+}
